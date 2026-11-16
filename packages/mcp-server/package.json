@@ -2,6 +2,7 @@
   "name": "@scaffold-hbar-ui/mcp-server",
   "version": "1.0.0",
   "description": "Model Context Protocol server exposing scaffold-ui docs, APIs, and examples for AI agents",
+  "homepage": "https://github.com/hedera-dev/scaffold-hbar-ui#readme",
   "type": "module",
   "main": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
